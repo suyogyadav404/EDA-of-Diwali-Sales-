@@ -1,10 +1,10 @@
 # EDA-of-Diwali-Sales-
 
-##Exploratory Data Analysis of Diwali Sales by using python libraries such as Pandas, Numpy, Matplotlib and Seaborn.
+Exploratory Data Analysis of Diwali Sales by using python libraries such as Pandas, Numpy, Matplotlib and Seaborn.
 
+![diwali sales](https://user-images.githubusercontent.com/68646633/233802061-565e420f-cdbe-4610-befd-97e2f3827ec1.png)
 
-
-###Conclusion:
+Conclusion:
 
 1. Female customers are more than male customers.
 
